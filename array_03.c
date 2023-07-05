@@ -1,3 +1,4 @@
+Write a program for dice-rolling using an array instead of switch?  
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
