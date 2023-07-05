@@ -1,4 +1,4 @@
-//print small latter to big 
+//Sorting an array with bubble sort?
 
 
 #include <stdio.h>
