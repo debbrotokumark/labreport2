@@ -8,7 +8,7 @@ void decimalToBinary(int decimal) {
         decimal = decimal / 2;
         index++;
     }
-r
+
     printf("Binary equivalent: ");
     for (int i = index - 1; i >= 0; i--) {
         printf("%d", binary[i]);
